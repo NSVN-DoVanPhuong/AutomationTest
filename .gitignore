@@ -1,8 +1,7 @@
 # Ignore Gradle project-specific cache directory
 .gradle
-.bin
 # Ignore all class file
 *.class
-
+*.png
 # Ignore Gradle build output directory
 build
