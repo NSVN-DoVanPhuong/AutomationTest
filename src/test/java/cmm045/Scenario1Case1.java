@@ -68,7 +68,6 @@ public class Scenario1Case1 extends TestRoot {
         driver.findElement(By.xpath("//li[@data-value='10']")).click();
         screenShot();
         this.uploadTestLink(117, 39);
-     
     }
 
     @AfterEach
